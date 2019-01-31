@@ -15,5 +15,6 @@ NOTE 2: Don't end your query with a semicolon.
 
 //Solution
 SELECT * 
-FROM people
-WHERE age > 50 ORDER BY age DESC
+  FROM people
+  WHERE age > 50 
+  ORDER BY age DESC
