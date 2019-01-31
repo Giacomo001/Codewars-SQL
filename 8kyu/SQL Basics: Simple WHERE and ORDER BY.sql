@@ -13,7 +13,7 @@ NOTE: Your solution should use pure SQL. Ruby is used within the test cases to d
 NOTE 2: Don't end your query with a semicolon.
 */
 
-//Solution
+--Solution
 SELECT * 
   FROM people
   WHERE age > 50 
