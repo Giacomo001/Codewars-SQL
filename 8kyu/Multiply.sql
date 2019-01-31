@@ -1,6 +1,6 @@
-//The code does not execute properly. Try to figure out why.
+--The code does not execute properly. Try to figure out why.
 
-//Solution
+--Solution
 SELECT price * amount 
 AS total 
 FROM items
